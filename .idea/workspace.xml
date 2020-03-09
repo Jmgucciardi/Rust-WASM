@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c02afe-63bb-46dc-b28c-231314818269" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/package-lock.json" afterDir="false" />
@@ -16,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="DwWFeFvj" />
@@ -52,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583785302878</updated>
-      <workItem from="1583785305372" duration="6730000" />
+      <workItem from="1583785305372" duration="9599000" />
     </task>
     <servers />
   </component>
