@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39c02afe-63bb-46dc-b28c-231314818269" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo" />
   </component>
@@ -7,16 +17,51 @@
     <option name="directoryName" value="DwWFeFvj" />
   </component>
   <component name="ProjectId" id="1YuGwG5WQSJB02Tj9gcqva5G6Yc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/jgucciardi/projects/webAssembly/Rust/hello-world/wasm-game-of-life-doc-demo/Cargo.toml" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/jgucciardi/projects/webAssembly/Rust/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" value="true" />
+    <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/jgucciardi/projects/webAssembly/Rust/hello-world/wasm-game-of-life-doc-demo/src/utils.rs" value="true" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39c02afe-63bb-46dc-b28c-231314818269" name="Default Changelist" comment="" />
+      <created>1583785302878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583785302878</updated>
+      <workItem from="1583785305372" duration="1415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="5109" y="572" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583786552695">
+      <screen x="2880" y="0" width="3840" height="1620" />
+    </state>
+    <state x="5109" y="572" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1583786552695" />
+    <state x="5262" y="446" key="FileChooserDialogImpl" timestamp="1583786243261">
+      <screen x="2880" y="0" width="3840" height="1620" />
+    </state>
+    <state x="5262" y="446" key="FileChooserDialogImpl/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1583786243261" />
     <state x="4293" y="148" key="search.everywhere.popup" timestamp="1583785377591">
       <screen x="2880" y="0" width="3840" height="1620" />
     </state>
