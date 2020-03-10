@@ -3,13 +3,8 @@ extern crate js_sys;
 extern crate web_sys;
 use std::fmt;
 use wasm_bindgen::prelude::*;
-use fixedbitset::FixedBitSet;
 
-macro_rules! log {
-    ( $( $t:tt )* ) => {
-        web_sys::console::log_1(&format!( $( $t )* ).into());
-    }
-}
+
 // When the `wee_alloc` feature is enabled, use `wee_alloc` as the global
 // allocator.
 #[cfg(feature = "wee_alloc")]
@@ -41,6 +36,15 @@ impl fmt::Display for Universe {
             write!(f, "\n")?;
         }
         Ok(())
+    }
+}
+
+impl Cell {
+    fn toggle(&mut self) {
+        *self = match *self {
+            Cell::Dead => Cell::Alive,
+            Cell::Alive => Cell::Dead,
+        };
     }
 }
 
@@ -144,8 +148,14 @@ impl Universe {
         self.height = height;
         self.cells = (0..self.width * height).map(|_i| Cell::Dead).collect();
     }
+
+    pub fn toggle_cell(&mut self, row: u32, column: u32) {
+        let idx = self.get_index(row, column);
+        self.cells[idx].toggle();
+    }
 }
 
+// for testing purposes
 impl Universe {
     pub fn get_cells(&self) -> &[Cell] {
         &self.cells
