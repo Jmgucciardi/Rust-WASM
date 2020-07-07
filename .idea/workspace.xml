@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c02afe-63bb-46dc-b28c-231314818269" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rustify/www" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/tests/web.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/tests/web.rs" afterDir="false" />
@@ -14,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rustify" beforeDir="false" afterPath="$PROJECT_DIR$/rustify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rustify/www" beforeDir="false" afterPath="$PROJECT_DIR$/rustify/www" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rustify/www/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/rustify/www/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rustify/www/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/rustify/www/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rustify/www/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/rustify/www/package.json" afterDir="false" />
@@ -86,7 +84,7 @@
       <workItem from="1584294093687" duration="1801000" />
       <workItem from="1588437997750" duration="2152000" />
       <workItem from="1593361665155" duration="2083000" />
-      <workItem from="1594135709885" duration="7983000" />
+      <workItem from="1594135709885" duration="8240000" />
     </task>
     <servers />
   </component>
