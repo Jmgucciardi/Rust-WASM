@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c02afe-63bb-46dc-b28c-231314818269" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rustify/.appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rustify/.cargo-ok" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rustify/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rustify/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rustify/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rustify/LICENSE_APACHE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rustify/LICENSE_MIT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rustify/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rustify/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rustify/src/utils.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rustify/tests/web.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" afterDir="false" />
@@ -18,19 +30,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rustify" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="DwWFeFvj" />
   </component>
   <component name="ProjectId" id="1YuGwG5WQSJB02Tj9gcqva5G6Yc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -42,8 +57,26 @@
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/jgucciardi/projects/webAssembly/Rust/hello-world/wasm-game-of-life-doc-demo/tests/web.rs" value="true" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,14 +88,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583785302878</updated>
-      <workItem from="1583785305372" duration="20362000" />
+      <workItem from="1583785305372" duration="24834000" />
+      <workItem from="1584294093687" duration="1801000" />
+      <workItem from="1588437997750" duration="2152000" />
+      <workItem from="1593361665155" duration="2083000" />
+      <workItem from="1594135709885" duration="6609000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="402" y="160" width="1239" height="791" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588439822736">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="402" y="160" width="1239" height="791" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588439822736" />
     <state x="5109" y="572" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583798047515">
       <screen x="2880" y="0" width="3840" height="1620" />
     </state>
@@ -71,6 +115,22 @@
       <screen x="2880" y="0" width="3840" height="1620" />
     </state>
     <state x="5262" y="446" key="FileChooserDialogImpl/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1583786243261" />
+    <state width="1886" height="258" key="GridCell.Tab.0.bottom" timestamp="1588440325987">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1886" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588440325987" />
+    <state width="1886" height="258" key="GridCell.Tab.0.center" timestamp="1588440325986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1886" height="258" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588440325986" />
+    <state width="1886" height="258" key="GridCell.Tab.0.left" timestamp="1588440325986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1886" height="258" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588440325986" />
+    <state width="1886" height="258" key="GridCell.Tab.0.right" timestamp="1588440325986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1886" height="258" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588440325986" />
     <state x="4293" y="148" key="search.everywhere.popup" timestamp="1583785377591">
       <screen x="2880" y="0" width="3840" height="1620" />
     </state>
