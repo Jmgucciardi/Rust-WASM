@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c02afe-63bb-46dc-b28c-231314818269" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RustifySource/rustify/www" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RustifySource/rustify/www/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RustifySource/rustify/www/Components/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RustifySource/rustify/www/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/RustifySource/rustify/www/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/RustifySource/rustify/www/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/RustifySource/rustify/www/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/RustifySource/rustify/www/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www" beforeDir="false" afterPath="$PROJECT_DIR$/RustifySource/rustify/www" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/tests/web.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/tests/web.rs" afterDir="false" />
@@ -100,7 +88,7 @@
       <workItem from="1588437997750" duration="2152000" />
       <workItem from="1593361665155" duration="2083000" />
       <workItem from="1594135709885" duration="8240000" />
-      <workItem from="1594160856096" duration="7601000" />
+      <workItem from="1594160856096" duration="7911000" />
     </task>
     <servers />
   </component>
