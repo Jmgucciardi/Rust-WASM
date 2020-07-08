@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c02afe-63bb-46dc-b28c-231314818269" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RustifySource/rustify/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RustifySource/rustify/www/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RustifySource/rustify/www/Components/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RustifySource/rustify/www/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/RustifySource/rustify/www/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/RustifySource/rustify/www/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/RustifySource/rustify/www/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustifySource/rustify/www/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/RustifySource/rustify/www/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/tests/web.rs" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/tests/web.rs" afterDir="false" />
@@ -10,11 +23,6 @@
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rustify" beforeDir="false" afterPath="$PROJECT_DIR$/rustify" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rustify/www" beforeDir="false" afterPath="$PROJECT_DIR$/rustify/www" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rustify/www/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/rustify/www/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rustify/www/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/rustify/www/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rustify/www/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/rustify/www/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rustify/www" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RustifySource/rustify/www" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="DwWFeFvj" />
@@ -47,7 +55,14 @@
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/jgucciardi/projects/webAssembly/Rust/hello-world/wasm-game-of-life-doc-demo/src/lib.rs" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/jgucciardi/projects/webAssembly/Rust/hello-world/wasm-game-of-life-doc-demo/src/utils.rs" value="true" />
     <property name="org.rust.hideNoCargoProjectNotificationsC:/Users/jgucciardi/projects/webAssembly/Rust/hello-world/wasm-game-of-life-doc-demo/tests/web.rs" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jgucciardi\projects\webAssembly\Rust\RustifySource\rustify\www\dist" />
+      <recent name="C:\Users\jgucciardi\projects\webAssembly\Rust\RustifySource\rustify\www\src" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -85,6 +100,7 @@
       <workItem from="1588437997750" duration="2152000" />
       <workItem from="1593361665155" duration="2083000" />
       <workItem from="1594135709885" duration="8240000" />
+      <workItem from="1594160856096" duration="7601000" />
     </task>
     <servers />
   </component>
@@ -99,25 +115,33 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="402" y="160" width="1239" height="791" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588439822736" />
-    <state width="2147" height="432" key="GridCell.Tab.0.bottom" timestamp="1594159726039">
+    <state x="5254" y="566" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594238820942">
       <screen x="2880" y="0" width="3840" height="1620" />
     </state>
-    <state width="2147" height="432" key="GridCell.Tab.0.bottom/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1594159726039" />
+    <state x="5254" y="566" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1594238820942" />
+    <state width="2146" height="428" key="GridCell.Tab.0.bottom" timestamp="1594238319128">
+      <screen x="2880" y="0" width="3840" height="1620" />
+    </state>
+    <state width="2146" height="428" key="GridCell.Tab.0.bottom/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1594238319128" />
     <state width="1886" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588440325987" />
-    <state width="2147" height="432" key="GridCell.Tab.0.center" timestamp="1594159726039">
+    <state width="2146" height="428" key="GridCell.Tab.0.center" timestamp="1594238319128">
       <screen x="2880" y="0" width="3840" height="1620" />
     </state>
-    <state width="2147" height="432" key="GridCell.Tab.0.center/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1594159726039" />
+    <state width="2146" height="428" key="GridCell.Tab.0.center/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1594238319128" />
     <state width="1886" height="258" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588440325986" />
-    <state width="2147" height="432" key="GridCell.Tab.0.left" timestamp="1594159726039">
+    <state width="2146" height="428" key="GridCell.Tab.0.left" timestamp="1594238319128">
       <screen x="2880" y="0" width="3840" height="1620" />
     </state>
-    <state width="2147" height="432" key="GridCell.Tab.0.left/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1594159726039" />
+    <state width="2146" height="428" key="GridCell.Tab.0.left/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1594238319128" />
     <state width="1886" height="258" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588440325986" />
-    <state width="2147" height="432" key="GridCell.Tab.0.right" timestamp="1594159726039">
+    <state width="2146" height="428" key="GridCell.Tab.0.right" timestamp="1594238319128">
       <screen x="2880" y="0" width="3840" height="1620" />
     </state>
-    <state width="2147" height="432" key="GridCell.Tab.0.right/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1594159726039" />
+    <state width="2146" height="428" key="GridCell.Tab.0.right/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1594238319128" />
     <state width="1886" height="258" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588440325986" />
+    <state x="4886" y="257" key="SettingsEditor" timestamp="1594231293531">
+      <screen x="2880" y="0" width="3840" height="1620" />
+    </state>
+    <state x="4886" y="257" key="SettingsEditor/0.0.1920.1080/2880.0.3840.1620@2880.0.3840.1620" timestamp="1594231293531" />
   </component>
 </project>

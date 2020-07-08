@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RustifySource/rustify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RustifySource/rustify/www" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hello-world/wasm-game-of-life-doc-demo/www" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/rustify" vcs="Git" />
